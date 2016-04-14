@@ -1,0 +1,22 @@
+{
+  "name": "react-dateing",
+  "version": "0.0.1",
+  "description": "this is a easy way to process react data flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm  run  test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moreJs/react-dateing.git"
+  },
+  "keywords": [
+    "data-binding"
+  ],
+  "author": "huangjianlei.cool@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moreJs/react-dateing/issues"
+  },
+  "homepage": "https://github.com/moreJs/react-dateing#readme"
+}
